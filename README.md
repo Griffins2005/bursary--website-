@@ -1,1 +1,3 @@
-# bursary--website-
+Project Name: EduBursary Management System
+Project Description:
+EduBursary Management System is a digital platform designed to streamline the allocation and distribution of bursaries to students in Kenya. The platform aims to ensure fair and equitable access to financial assistance for education by implementing transparent processes, strict verification mechanisms, and robust monitoring and evaluation features. Through this system, students can easily apply for bursaries, and authorities can efficiently manage applications, allocate funds, and track the impact of financial assistance on student outcomes.
